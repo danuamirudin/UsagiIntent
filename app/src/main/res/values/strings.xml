@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">UsagiIntent</string>
     <string name="alhamduliilah_barang_nya_sampai_barengan">Alhamduliilah barang nya sampai barengan</string>
+    <string name="object_received">Object Received</string>
+    <string name="dial_a_number">Dial a Number</string>
+    <string name="_20">20</string>
+    <string name="_10">10</string>
+    <string name="hasil">Hasil</string>
+    <string name="result_move">Result Move</string>
 </resources>
